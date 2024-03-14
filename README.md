@@ -9,8 +9,7 @@
 
 #### References
 
-- :books: Godoy, Daniel. Deep Learning with PyTorch - Step by Step. [[Link]](https://
-pytorchstepbystep.com/)
+- :books: Godoy, Daniel. Deep Learning with PyTorch - Step by Step. [[Link]](https://pytorchstepbystep.com/)
 - :books: Tam, Adrian. Deep Learning with PyTorch. [[Link]](https://machinelearningmastery.com/deep-learning-with-pytorch/)
 - :books: Cristina, Stefania; Saeed, Mehreen. Building Transformer with Attention. [[Link]](https://machinelearningmastery.com/transformer-models-with-attention/)
 - :books: Huyen, Chip. Designing Machine Learning Systems. [[Link]](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
