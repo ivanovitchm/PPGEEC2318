@@ -19,4 +19,7 @@
 - Detailed breakdown of the course structure and content, exploring various aspects and applications of Machine Learning.
 - Motivation, Syllabus, and other issues.
 
+**Week 02**: Fundamentals of Machine Learning [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week02/week02.pdf)
+- Fundamentals and first steps about the study of Machine Learning models.
+
 
