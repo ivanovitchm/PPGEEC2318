@@ -22,4 +22,8 @@
 **Week 02**: Fundamentals of Machine Learning [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week02/week02.pdf)
 - Fundamentals and first steps about the study of Machine Learning models.
 
-
+**Week 03**: Visualizing Gradient Descent [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week03/week03.pdf)
+- Effective Theory Approach in Deep Learning: big-picture idea.
+- Visualizing Gradient Descent: The lesson walks through the process of implementing gradient descent in a linear regression model, covering: Initialization and training of neural networks, viewing them as a set of parameters and functions. Detailed steps of gradient descent, including initializing parameters, computing predictions, computing loss, computing gradients, and updating parameters. The significance of learning rates and their influence on the gradient descent process.
+- Gradient Descent with PyTorch
+- Critical Evaluation and Key Takeaways
