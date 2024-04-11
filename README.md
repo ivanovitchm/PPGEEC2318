@@ -34,7 +34,7 @@
     - build a function to perform mini-batch gradient descent, evaluate our model
     - save / checkpoint our model to disk
     - load our model from disk to resume training or to deploy
-- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week04/week04b.ipynb) **Going Classy**:
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week04/week4b.ipynb) **Going Classy**:
     - define a class to handle model training
     - implement the constructor method
     - understand the difference between public, protected, and private methods of a class
