@@ -48,7 +48,7 @@
     - understand the concepts of decision boundary and separability
 
 **Week 05**: Machine Learning and Computer Vision - Part I [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week05/week05.pdf)
-- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week05/week05.ipynb) **From a shallow to a deeep-ish clasificaiton model**:
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week05/week05.ipynb) **From a shallow to a deeep-ish clasification model**:
     - data generation for image classification
     - transformations using torchvision
     - dataset preparation techniques
