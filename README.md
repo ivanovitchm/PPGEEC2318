@@ -55,7 +55,7 @@
     - building and training logistic regression and deep neural network models using PyTorch
     - focusing on various activation functions like Sigmoid, Tanh, and ReLU 
 
-**Week 06**: Machine Learning and Computer Vision - Part I [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week06/Week06.pdf)
+**Week 06**: Machine Learning and Computer Vision - Part II [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week06/Week06.pdf)
 - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week06/Week06.ipynb) **Convolutions**:
     - In this lesson, we’ve introduced convolutions and related concepts and built a convolutional neural network to tackle a multiclass classification problem.
         - Activation function, pooling layer, flattening, Lenet-5
