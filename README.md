@@ -62,3 +62,14 @@
         - Softmax, cross-entropy
         - Visualizing the convolutional filters, features maps and classifier layers
         - Hooks in Pytorch
+
+**Week 07**: Machine Learning and Computer Vision - Part III [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week07/week07.pdf)
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week07/week07.ipynb) **Rock, Paper and Scissors**:
+    - Standardize an image dataset
+    - Train a model to predict rock, paper, scissors poses from hand images
+    - Use dropout layers to regularize the model
+    - Learn how to find a learning rate to train the model
+    - Understand how the Adam optimizer uses adaptive learning rates
+    - Capture gradients and parameters to visualize their evolution during training
+    - Understand how momentum and Nesterov momentum work
+    - Use schedulers to implement learning rate changes during training
