@@ -24,3 +24,15 @@
         - GitHub Learning Game: Check out the interactive Git learning game at [GitHub Learning Game](https://learngitbranching.js.org/)
         - Basic Python: Enhance your Python skills through the [Kaggle Python course](https://www.kaggle.com/learn/python).
     - AI Python for Beginners: Learn Python programming fundamentals and how to integrate AI tools for data manipulation, analysis, and visualization. [Andrew Ng](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
+
+**Week 02**: Machine Learning Fundamentals [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week02/fundamentals.pdf)
+- Motivation: how advances in Machine Learning are helping bridge the gap between AI's current capabilities and human cognitive abilities, highlighting limitations and future directions for AI systems.
+- Overview of Machine Learning fundamentals, including an exploration of semi-supervised learning, active learning, and weak supervision.
+- Discussion on Moravec's Paradox: examining the difference in cognitive complexity between tasks easily handled by AI versus tasks natural to humans.
+- Self-supervised learning: Introduction to pretext tasks, where models are trained on unlabeled data, and their application in Natural Language Processing (NLP).
+
+Key Concepts:
+- Semi-supervised Learning: Training a model using both labeled and unlabeled data.
+- Active Learning: A model that actively seeks human-labeled data for improved accuracy.
+- Weak Supervision: Using weakly labeled data generated through heuristics or external knowledge sources.
+- Self-Supervised Learning: Training models on pretext tasks to build representations from unlabeled data, with applications in NLP.
