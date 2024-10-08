@@ -36,3 +36,6 @@ Key Concepts:
 - Active Learning: A model that actively seeks human-labeled data for improved accuracy.
 - Weak Supervision: Using weakly labeled data generated through heuristics or external knowledge sources.
 - Self-Supervised Learning: Training models on pretext tasks to build representations from unlabeled data, with applications in NLP.
+
+**Week 03**: Visualizing Gradient Descent [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week03/week03.pdf)
+- In this week's lesson, we explore the Gradient Descent algorithm, a fundamental method for optimizing machine learning models. The focus is on understanding how gradient descent works and its application in training a linear regression model. We also examine the use of PyTorch for implementing these concepts, visualizing the steps, and critically evaluating key aspects of gradient-based optimization.
