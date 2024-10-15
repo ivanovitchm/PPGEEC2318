@@ -39,3 +39,22 @@ Key Concepts:
 
 **Week 03**: Visualizing Gradient Descent [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week03/week03.pdf)
 - In this week's lesson, we explore the Gradient Descent algorithm, a fundamental method for optimizing machine learning models. The focus is on understanding how gradient descent works and its application in training a linear regression model. We also examine the use of PyTorch for implementing these concepts, visualizing the steps, and critically evaluating key aspects of gradient-based optimization.
+
+**Week 04**: Rethinking the training loop: a simple classification problem [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week04/week04.pdf)
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week04/week04a.ipynb) **Rethinking the training loop**:
+    - build a function to perform training steps, implement our own dataset class, use data loaders to generate mini-batches
+    - build a function to perform mini-batch gradient descent, evaluate our model
+    - save / checkpoint our model to disk
+    - load our model from disk to resume training or to deploy
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week04/week4b.ipynb) **Going Classy**:
+    - define a class to handle model training
+    - implement the constructor method
+    - understand the difference between public, protected, and private methods of a class
+    - integrate the code we’ve developed so far into our class
+    - instantiate our class and use it to run a classy pipeline
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week04/week04c.ipynb) **A simple classification problem**:
+    - build a model for binary classification
+    - understand the concept of logits and how it is related to probabilities
+    - use binary cross-entropy loss to train a model
+    - use the loss function to handle imbalanced datasets
+    - understand the concepts of decision boundary and separability
