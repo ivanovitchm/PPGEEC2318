@@ -83,3 +83,8 @@ Key Concepts:
     - Standardize an image dataset
     - Train a model to predict rock, paper, scissors poses from hand images
     - Use dropout layers to regularize the model
+
+**Week 08**: Machine Learning and Computer Vision - Part III Cont.[![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week08/Week08.pdf)
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week08/week08.ipynb) **Rock, Paper and Scissors**:
+    - Learn how to find a learning rate to train the model
+    - Understand the use of adaptive learning rates   
