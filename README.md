@@ -24,3 +24,9 @@
         - Basic Python: Enhance your Python skills through the [Kaggle Python course](https://www.kaggle.com/learn/python).
     - AI Python for Beginners: Learn Python programming fundamentals and how to integrate AI tools for data manipulation, analysis, and visualization. [Andrew Ng](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
     - Reading: [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace)
+
+**Week 02**: Fundamentals and First Steps [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week02/week02.pdf)
+- Nature of Human Intelligence versus Artificial Intelligence
+- Types of Machine Learning
+- :reading: [ML Fundamentals and Decision Trees](https://github.com/ivanovitchm/ppgeecmachinelearning)
+    - Study the material of weeks 2,3 and 4.
