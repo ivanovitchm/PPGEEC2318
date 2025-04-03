@@ -30,3 +30,6 @@
 - Types of Machine Learning
 - :movie_camera: [ML Fundamentals and Decision Trees](https://github.com/ivanovitchm/ppgeecmachinelearning)
     - Study the material of weeks 2,3 and 4.
+
+**Week 03**: Visualizing Gradient Descent [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week03/week03.pdf)
+- This week's lesson focuses on understanding and visualizing the five core steps of the Gradient Descent algorithm: (1) initializing parameters randomly, (2) performing the forward pass to compute predictions, (3) calculating the loss, (4) computing gradients with respect to each parameter, and (5) updating the parameters using the gradients and a predefined learning rate. We implemented these steps manually and using PyTorch's autograd and optimizer tools, analyzing how different configurations affect convergence.
