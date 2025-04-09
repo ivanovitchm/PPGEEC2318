@@ -39,12 +39,12 @@
 
 - Rethinking the Training Loop [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week04/week04a.ipynb)
     - **Implement the training function:** Create a dedicated function to execute training steps, implement a custom dataset class, and use data loaders to generate mini-batches.
-    - **Perform mini-batch gradient descent:**Develop a routine for mini-batch gradient descent and evaluate your model’s performance.
-    - **Ensure model persistence:**Save and checkpoint your model to disk, enabling you to resume training later or deploy the model.
+    - **Perform mini-batch gradient descent:** Develop a routine for mini-batch gradient descent and evaluate your model’s performance.
+    - **Ensure model persistence:** Save and checkpoint your model to disk, enabling you to resume training later or deploy the model.
 - Going Classy [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week04/week4b.ipynb)
-    - **Create a training class:**Define a robust class to handle model training.
-    - **Implement the constructor:**Properly set up the class constructor.
-    - **Handle method accessibility:**Understand and apply the differences between public, protected, and private methods.
-    - **Integrate the code:**Organize and merge the previously developed code into the class structure.
-    - **Execute the pipeline:**Instantiate the class and use it to run an efficient training pipeline.
+    - **Create a training class:** Define a robust class to handle model training.
+    - **Implement the constructor:** Properly set up the class constructor.
+    - **Handle method accessibility:** Understand and apply the differences between public, protected, and private methods.
+    - **Integrate the code:** Organize and merge the previously developed code into the class structure.
+    - **Execute the pipeline:** Instantiate the class and use it to run an efficient training pipeline.
 
