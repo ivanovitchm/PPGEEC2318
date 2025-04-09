@@ -33,3 +33,18 @@
 
 **Week 03**: Visualizing Gradient Descent [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week03/week03.pdf)
 - This week's lesson focuses on understanding and visualizing the five core steps of the Gradient Descent algorithm: (1) initializing parameters randomly, (2) performing the forward pass to compute predictions, (3) calculating the loss, (4) computing gradients with respect to each parameter, and (5) updating the parameters using the gradients and a predefined learning rate. We implemented these steps manually and using PyTorch's autograd and optimizer tools, analyzing how different configurations affect convergence.
+
+
+**Week 04**: Rethinking the Training Loop (Part I) [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week04/week04.pdf)
+
+- Rethinking the Training Loop [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week04/week04a.ipynb)
+    - **Implement the training function:** Create a dedicated function to execute training steps, implement a custom dataset class, and use data loaders to generate mini-batches.
+    - **Perform mini-batch gradient descent:**Develop a routine for mini-batch gradient descent and evaluate your model’s performance.
+    - **Ensure model persistence:**Save and checkpoint your model to disk, enabling you to resume training later or deploy the model.
+- Going Classy [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week04/week4b.ipynb)
+    - **Create a training class:**Define a robust class to handle model training.
+    - **Implement the constructor:**Properly set up the class constructor.
+    - **Handle method accessibility:**Understand and apply the differences between public, protected, and private methods.
+    - **Integrate the code:**Organize and merge the previously developed code into the class structure.
+    - **Execute the pipeline:**Instantiate the class and use it to run an efficient training pipeline.
+
