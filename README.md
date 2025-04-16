@@ -56,3 +56,4 @@
     - use binary cross-entropy loss to train a model
     - use the loss function to handle imbalanced datasets
     - understand the concepts of decision boundary and separability
+    
