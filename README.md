@@ -56,4 +56,7 @@
     - use binary cross-entropy loss to train a model
     - use the loss function to handle imbalanced datasets
     - understand the concepts of decision boundary and separability
+
+**Weeks 06 and 07**: Guided Project - Binary Classification Problem [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week00607/Project01.pdf)
+
     
