@@ -59,8 +59,8 @@
 
 **Weeks 06 and 07**: Guided Project - Binary Classification Problem [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week0607/Project01.pdf)
 
-**Week 08**: Machine Learning and Computer Vision - Part I [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week08/Week08.pdf)
-- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week08/Week08.ipynb) **From a shallow to a deeep-ish clasification model**:
+**Weeks 08 and 09**: Machine Learning and Computer Vision - Part I [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week08/Week08.pdf)
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/ppgeec2318/blob/main/lessons/week08/Week08.ipynb) **From a shallow to a deep-ish clasification model**:
     - data generation for image classification
     - transformations using torchvision
     - dataset preparation techniques
